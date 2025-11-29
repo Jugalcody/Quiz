@@ -1,1 +1,1 @@
-Deployed to [Quiz("https://apnaquizgk.netlify.app")]
+Deployed to [Quiz]("https://apnaquizgk.netlify.app")
