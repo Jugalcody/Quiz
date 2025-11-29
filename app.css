@@ -93,3 +93,10 @@ h2 > span {
     box-shadow: none;
     transform: none;
 }
+
+@media (max-width: 480px) {
+    .row {
+        flex-direction: column; 
+        gap: 8px;
+    }
+}

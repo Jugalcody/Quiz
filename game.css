@@ -43,3 +43,10 @@ margin-bottom: 3.4rem;
     display: flex;
     justify-content: space-around;
 }
+
+@media (max-width: 480px) {
+    .row {
+        flex-direction: column; 
+        gap: 8px;
+    }
+}
